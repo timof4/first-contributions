@@ -24,6 +24,7 @@
 - Swiftanr
 - [Taro Qureshi](https://github.com/taro-qureshi)
 - Jeromeeee
+- [Timothy Felten] https://github.com/timof4/first-contributions
 - [Kapil Sharma](https://github.com/codingwithkapil)
 - [Olayinkascott Andee](https://github.com/scottandee)
 - [Faith Adewuyi](https://github.com/faithadewuyi)
